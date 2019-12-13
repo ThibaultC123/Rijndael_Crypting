@@ -1,0 +1,11 @@
+C:\Users\Thibault\source\repos\ThibaultC123\Rijndael_Crypting\Cryptosoft\Cryptosoft\bin\Debug\netcoreapp3.0\Cryptosoft.exe
+C:\Users\Thibault\source\repos\ThibaultC123\Rijndael_Crypting\Cryptosoft\Cryptosoft\bin\Debug\netcoreapp3.0\Cryptosoft.deps.json
+C:\Users\Thibault\source\repos\ThibaultC123\Rijndael_Crypting\Cryptosoft\Cryptosoft\bin\Debug\netcoreapp3.0\Cryptosoft.runtimeconfig.json
+C:\Users\Thibault\source\repos\ThibaultC123\Rijndael_Crypting\Cryptosoft\Cryptosoft\bin\Debug\netcoreapp3.0\Cryptosoft.runtimeconfig.dev.json
+C:\Users\Thibault\source\repos\ThibaultC123\Rijndael_Crypting\Cryptosoft\Cryptosoft\bin\Debug\netcoreapp3.0\Cryptosoft.dll
+C:\Users\Thibault\source\repos\ThibaultC123\Rijndael_Crypting\Cryptosoft\Cryptosoft\bin\Debug\netcoreapp3.0\Cryptosoft.pdb
+C:\Users\Thibault\source\repos\ThibaultC123\Rijndael_Crypting\Cryptosoft\Cryptosoft\obj\Debug\netcoreapp3.0\Cryptosoft.csprojAssemblyReference.cache
+C:\Users\Thibault\source\repos\ThibaultC123\Rijndael_Crypting\Cryptosoft\Cryptosoft\obj\Debug\netcoreapp3.0\Cryptosoft.AssemblyInfoInputs.cache
+C:\Users\Thibault\source\repos\ThibaultC123\Rijndael_Crypting\Cryptosoft\Cryptosoft\obj\Debug\netcoreapp3.0\Cryptosoft.AssemblyInfo.cs
+C:\Users\Thibault\source\repos\ThibaultC123\Rijndael_Crypting\Cryptosoft\Cryptosoft\obj\Debug\netcoreapp3.0\Cryptosoft.dll
+C:\Users\Thibault\source\repos\ThibaultC123\Rijndael_Crypting\Cryptosoft\Cryptosoft\obj\Debug\netcoreapp3.0\Cryptosoft.pdb
